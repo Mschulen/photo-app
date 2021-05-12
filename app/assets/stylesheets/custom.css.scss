@@ -3,6 +3,16 @@
   background-size: cover;
 }
 
+.text-white {
+  color: rgb(238, 237, 237) !important;
+}
+
 body {
-  background-color: rgb(15, 15, 15);
+  background-color: rgb(85, 85, 85);
+  color: white !important;
+}
+
+.navbar {
+  color: white;
+  background-color: black;
 }
